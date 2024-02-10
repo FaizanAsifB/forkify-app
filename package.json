@@ -10,10 +10,10 @@
   "author": "Faizan Asif",
   "license": "ISC",
   "dependencies": {
-    "@parcel/transformer-sass": "^2.9.3",
-    "core-js": "^3.32.2",
+    "@parcel/transformer-sass": "^2.11.0",
+    "core-js": "^3.35.1",
     "fractional": "^1.0.0",
-    "regenerator-runtime": "^0.14.0"
+    "regenerator-runtime": "^0.14.1"
   },
   "devDependencies": {
     "parcel": "^2.11.0"
