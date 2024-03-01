@@ -1,6 +1,6 @@
 import View from './View.js';
 
-import { fracty } from 'fracty';
+import fracty from 'fracty';
 import icons from 'url:../../img/icons.svg';
 
 class RecipeView extends View {
